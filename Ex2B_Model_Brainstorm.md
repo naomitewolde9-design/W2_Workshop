@@ -33,3 +33,7 @@ BRAINSTORMING NOTES:( don't forget to keep spacing in between each note so when 
 - I looked at our ERD's and we all have our ERD's sectioned out with the column information as well as the PK(primary keys) and FK(Foreign keys).(Naomi)
 
 - When Victoria used chatGPT it only showed 2 relationships from the information, for example "One client has many dogs(1:M)" and my ERD has a list of 3 like the relationship between the tables with the appointments, client, and dog ID's.(Naomi)
+
+(Victoria Ordonez) 
+a) some of the similarities the main three entities Client-Dog-Appointment 
+b) there are additional entities in some ERD like Emergency contact and relationship - I beleive that these diffrences are due to the prompts we individually used when using AI. Some cons could be getting information that may not be relevant to what you need in your data but a pro is getting additional information that could potentially be useful. 
