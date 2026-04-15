@@ -6,3 +6,6 @@ SHEET 1: CLIENT INFORMATION: Excel sheet columns(in order): Client_ID, Client_Fi
 SHEET 2: DOG INFORMATION: Excel sheet columns (in order): Dog_ID, Dog_name, Breed, Age, Size(small, med, large), Special_Notes(allergies, behavior), Client_ID(links to owner)
 
 SHEET 3: APPOINTMENT INFORMATION: Excel sheet colums (in order): Walk_ID, Dog_ID, Date, Start_Time, Duration(minutes), Route, FEE, Completed (y/n)
+
+BRAINSTORMING NOTES: 
+
