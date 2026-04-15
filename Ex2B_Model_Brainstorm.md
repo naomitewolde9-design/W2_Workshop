@@ -13,6 +13,14 @@ BRAINSTORMING NOTES:( don't forget to keep spacing in between each note so when 
 
 - Naomi: She needs to be able to clearly see client information, dog information, and appointment information, Client/dog/and appointment ID's need to be consistent throughout each sheet/table so that all the information can be tracked. 
 
+
+- Victoria: a) Main entities should be Client info, Dog info, Appointment info
+  b) attributes in client info - client name
+  attributes in dog info - dog ID
+  attributes in appointment - appointment ID
+  c) all entities haave relationships to each other we would gather client name to match to dog id and matching to appointment id
+  d) no many to many relationships
+  
 # Ex2B Brainstorming ERD:
 
 - I looked at our ERD's and we all have our ERD's sectioned out with the column information as well as the PK(primary keys) and FK(Foriegn keys).(Naomi)
