@@ -12,3 +12,5 @@ BRAINSTORMING NOTES:( don't forget to keep spacing in between each note so when 
 # Logical Model
 
 - Naomi: She needs to be able to clearly see client information, dog information, and appointment information, Client/dog/and appointment ID's need to be consistent throughout each sheet/table so that all the information can be tracked. 
+
+ERD Group Questions: Ex2B 
