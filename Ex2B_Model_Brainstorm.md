@@ -18,8 +18,14 @@ BRAINSTORMING NOTES:( don't forget to keep spacing in between each note so when 
   b) attributes in client info - client name
   attributes in dog info - dog ID
   attributes in appointment - appointment ID
-  c) all entities haave relationships to each other we would gather client name to match to dog id and matching to appointment id
+  c) all entities have relationships to each other we would gather client name to match to dog id and matching to appointment id
   d) no many to many relationships
+  
+  - *Corey*: a) The main entities in the database should be: Client, Dog, and Appointment info.
+           b) The Attributes should be related to each other according to the 3NF standard.
+           c) Within our database there will be no many-2-many relationships. only one-2-many.
+           
+
   
 # Ex2B Brainstorming ERD:
 
