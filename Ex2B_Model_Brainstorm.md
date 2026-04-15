@@ -7,5 +7,5 @@ SHEET 2: DOG INFORMATION: Excel sheet columns (in order): Dog_ID, Dog_name, Bree
 
 SHEET 3: APPOINTMENT INFORMATION: Excel sheet colums (in order): Walk_ID, Dog_ID, Date, Start_Time, Duration(minutes), Route, FEE, Completed (y/n)
 
-BRAINSTORMING NOTES: 
+BRAINSTORMING NOTES:( don't forget to keep spacing in between each note so when you commit changes it looks organized and clean)
 
