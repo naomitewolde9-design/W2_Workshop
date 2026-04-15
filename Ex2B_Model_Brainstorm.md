@@ -22,13 +22,14 @@ BRAINSTORMING NOTES:( don't forget to keep spacing in between each note so when 
   d) no many to many relationships
   
   - *Corey*: a) The main entities in the database should be: Client, Dog, and Appointment info.
-           b) The Attributes should be related to each other according to the 3NF standard.
-           c) Within our database there will be no many-2-many relationships. only one-2-many.
+             b) The Attributes should be the first name and last name for the Client (& Client ID), and date, dog ID, Fee,                    status for appointment (& Appointment ID)
+             c) The Attributes should be related to each other according to the 3NF standard.
+             d) Within our database there will be no many-2-many relationships. only one-2-many.
            
 
   
 # Ex2B Brainstorming ERD:
 
-- I looked at our ERD's and we all have our ERD's sectioned out with the column information as well as the PK(primary keys) and FK(Foriegn keys).(Naomi)
+- I looked at our ERD's and we all have our ERD's sectioned out with the column information as well as the PK(primary keys) and FK(Foreign keys).(Naomi)
 
-- When Victoria used chatgpt it only showed 2 relationships from the information, for example "One client has many dogs(1:M)" and my ERD has a list of 3 like the relationship between the tables with the appointments, client, and dog ID's.(Naomi)
+- When Victoria used chatGPT it only showed 2 relationships from the information, for example "One client has many dogs(1:M)" and my ERD has a list of 3 like the relationship between the tables with the appointments, client, and dog ID's.(Naomi)
