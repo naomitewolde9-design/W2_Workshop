@@ -15,4 +15,6 @@ BRAINSTORMING NOTES:( don't forget to keep spacing in between each note so when 
 
 # Ex2B Brainstorming ERD:
 
+- I looked at our ERD's and we all have our ERD's sectioned out with the column information as well as the PK(primary keys) and FK(Foriegn keys).(Naomi)
 
+- When Victoria used chatgpt it only showed 2 relationships from the information, for example "One client has many dogs(1:M)" and my ERD has a list of 3 like the relationship between the tables with the appointments, client, and dog ID's.
