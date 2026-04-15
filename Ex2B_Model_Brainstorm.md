@@ -9,3 +9,4 @@ SHEET 3: APPOINTMENT INFORMATION: Excel sheet colums (in order): Walk_ID, Dog_ID
 
 BRAINSTORMING NOTES:( don't forget to keep spacing in between each note so when you commit changes it looks organized and clean)
 
+#Logical Model
